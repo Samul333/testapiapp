@@ -14,7 +14,7 @@ function Nav() {
                   <Link className="link" to ="/weather"> <li> Weather App </li></Link>
                   {/* <Link className="link" to ="/dota2"> <li> Dota 2 App </li></Link> */}
                   <Link className="link" to ="/recipes"> <li>Recipies App</li></Link>
-                  <Link className = "link" to ="/movie"><li>Movie Api</li></Link>
+                  <Link className = "link" to ="/movie"><li>Movie Search</li></Link>
                   <Link className = "link" to ="/pokedex"><li>Pokedex</li></Link>
                   </ul>   
         </div>
