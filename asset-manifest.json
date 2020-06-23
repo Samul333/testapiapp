@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/testapiapp/static/css/main.432ac949.chunk.css",
+    "main.css": "/testapiapp/static/css/main.45832953.chunk.css",
     "main.js": "/testapiapp/static/js/main.c4666a0b.chunk.js",
     "main.js.map": "/testapiapp/static/js/main.c4666a0b.chunk.js.map",
     "runtime-main.js": "/testapiapp/static/js/runtime-main.3250726c.js",
@@ -8,16 +8,16 @@
     "static/js/2.d75a1e65.chunk.js": "/testapiapp/static/js/2.d75a1e65.chunk.js",
     "static/js/2.d75a1e65.chunk.js.map": "/testapiapp/static/js/2.d75a1e65.chunk.js.map",
     "index.html": "/testapiapp/index.html",
-    "precache-manifest.226bf1d42fc4bb4b8a20b849f024af9a.js": "/testapiapp/precache-manifest.226bf1d42fc4bb4b8a20b849f024af9a.js",
+    "precache-manifest.c92eabeb17ab934dbbb0edcddc9cc353.js": "/testapiapp/precache-manifest.c92eabeb17ab934dbbb0edcddc9cc353.js",
     "service-worker.js": "/testapiapp/service-worker.js",
-    "static/css/main.432ac949.chunk.css.map": "/testapiapp/static/css/main.432ac949.chunk.css.map",
+    "static/css/main.45832953.chunk.css.map": "/testapiapp/static/css/main.45832953.chunk.css.map",
     "static/js/2.d75a1e65.chunk.js.LICENSE.txt": "/testapiapp/static/js/2.d75a1e65.chunk.js.LICENSE.txt",
     "static/media/App.css": "/testapiapp/static/media/mountain.eb78e36f.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3250726c.js",
     "static/js/2.d75a1e65.chunk.js",
-    "static/css/main.432ac949.chunk.css",
+    "static/css/main.45832953.chunk.css",
     "static/js/main.c4666a0b.chunk.js"
   ]
 }
